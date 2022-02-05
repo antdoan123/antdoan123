@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Anthony Doan
+#### Computer Engineering Student
+![Computer Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**antdoan123/antdoan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anthony from Orange Country, California and I am currently studying computer engineering at California State Polytechnic University, Pomona. My favorite language to code is C# or C++, but I am starting to really enjoy HTML5 and CSS. I also enjoy working with microcontrollers. 
 
-Here are some ideas to get you started:
+Skills: C++ / C# / REACT / NEXTJS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
