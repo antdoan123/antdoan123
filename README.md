@@ -1,4 +1,4 @@
-### Hi there 👋, Anthony Doan
+### Hi there 👋, I'm Anthony Doan
 #### Computer Engineering Student
 ![Computer Engineering Student](https://github.com/antdoan123/antdoan123/blob/main/Hi%20I'm%20Anthony!%20%F0%9F%91%8B.gif)
 
